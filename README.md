@@ -22,6 +22,9 @@
     <li>
     Authenticated users can edit or delete information of a job post
     </li>
+    <li>
+    Pagination for filtering jobs for better performance
+    </li>
   </ul>
 
 <p><strong>Framework</strong></p>
