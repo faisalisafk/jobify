@@ -21,10 +21,12 @@
   </ul>
 
 <p><strong>Framework</strong></p>
-<p>Mainly used [LARAVEL](https://laravel.com) to develop the frontend,backend all together. Used basic html,css with blade,typescript and js. Backend is based on php.</p>
+<p>Mainly used <a href="https://laravel.com">Laravel</a> to develop the frontend,backend all together. Used basic html,css with blade,typescript and js. Backend is based on php.</p>
 
 <p><strong>Database</strong></p>
-<p>We used [MySQL](https://www.mysql.com/) database and queryset to operate our backend with ease.</p>
+<p>
+    We used <a href="https://www.mysql.com/">MySQL</a> database and queryset to operate our backend with ease.
+</p>
 
 <p><strong>Deployment</strong></p>
-Used [HEROKUAPP](https://www.heroku.com) to deploy the website and used 3rd party website [REMOTEMYSQL](https://www.remotemysql.com/) for mysql integration for free MySQL database to use on cloud.[slidescarnival](https://www.slidescarnival.com/)
+Used <a href="https://www.heroku.com">Heroku</a> to deploy the website and used 3rd party website <a href="https://www.remotemysql.com/">RemoteMySQL</a> for mysql integration for free MySQL database to use on cloud.
