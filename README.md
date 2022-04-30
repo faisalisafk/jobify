@@ -1,3 +1,7 @@
+<div align="center">
+    <h1>JobiFy</h1>
+</div>
+
 <p><strong>INTRODUCTION</strong></p>
 <p>An online job finding place where you can find jobs and create account to post jobs and search jobs too. Depending on job criteria like location, company or skill set one can easily filter job list.<p>
 
