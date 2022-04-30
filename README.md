@@ -27,4 +27,4 @@
 <p>We used [MySQL](https://www.mysql.com/) database and queryset to operate our backend with ease.</p>
 
 <p><strong>Deployment</strong></p>
-Used [HEROKUAPP](https://www.heroku.com) to deploy the website and used 3rd party website [REMOTEMYSQL](https://www.remotemysql.com/) for mysql integration for free MySQL database to use on cloud.
+Used [HEROKUAPP](https://www.heroku.com) to deploy the website and used 3rd party website [REMOTEMYSQL](https://www.remotemysql.com/) for mysql integration for free MySQL database to use on cloud.[slidescarnival](https://www.slidescarnival.com/)
